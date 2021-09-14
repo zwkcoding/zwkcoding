@@ -1,8 +1,14 @@
-### Hi there 👋
+## Hi there 👋 I'm zwkcoding
+
+![GitHub User's stars](https://img.shields.io/github/stars/zwkcoding?style=flat-square&logo=github)
+![GitHub User's followers](https://img.shields.io/github/followers/zwkcoding?style=flat-square&logo=github)
+
+- 🚖 Motion Planning Engineer at [UISEE](https://www.waymo.com), founded in February 2016
+- 🏫  MS in Intelligent Vehicles at [BIT](https://me.bit.edu.cn/jgsz/jlgcx1/qjyjs1/index.htm), BEng in Vehicle Engineering at [WUT](http://auto.whut.edu.cn/)
+- 💻 C / C++ / Python / Unix Shell / Matlab /
+- 🏀 Anime & Comics / Electronic Products / Coffee & Tea
 
 <!--
-**zwkcoding/zwkcoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
