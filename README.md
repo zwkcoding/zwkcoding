@@ -1,8 +1,8 @@
 <p align="center">
-<a href="https://octodex.github.com/umbrellatocat/"><img src=".readme/puddle_jumper_octodex.png" height="160px" width="160px"></a>
-<a href="https://octodex.github.com/labtocat/"><img src=".readme/labtocat.png" height="160px" width="160px"></a>
-<a href="https://octodex.github.com/inspectocat/"><img src=".readme/inspectocat.png" height="160px" width="160px"></a>
-<a href="https://octodex.github.com/Robotocat/"><img src=".readme/robotocat.png" height="160px" width="160px"></a>
+<a href="https://octodex.github.com/umbrellatocat/"><img src="https://github.com/zwkcoding/zwkcoding/blob/main/.readme/puddle_jumper_octodex.jpg" height="160px" width="160px"></a>
+<a href="https://octodex.github.com/labtocat/"><img src="https://github.com/zwkcoding/zwkcoding/blob/main/.readme/labtocat.png" height="160px" width="160px"></a>
+<a href="https://octodex.github.com/inspectocat/"><img src="https://github.com/zwkcoding/zwkcoding/blob/main/.readme/inspectocat.jpg" height="160px" width="160px"></a>
+<a href="https://octodex.github.com/Robotocat/"><img src="https://github.com/zwkcoding/zwkcoding/blob/main/.readme/Robotocat.png" height="160px" width="160px"></a>
 </p>
 
 ## Hi there 👋 I'm zwkcoding
